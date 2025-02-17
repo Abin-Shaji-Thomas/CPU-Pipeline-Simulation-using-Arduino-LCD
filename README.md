@@ -28,7 +28,7 @@ This project simulates a **basic CPU pipeline** using an **Arduino Uno**, an **L
 - **LEDs (Red, Yellow, Green)**
 - **Resistors & Jumper Wires**
 
-📌 _Circuit design
+📌 Circuit design
 ![Screenshot 2025-02-17 213817](https://github.com/user-attachments/assets/49c6176f-ec8d-4644-b7c2-056f66b0cf02)
 
 📌 Circuit diagram 
