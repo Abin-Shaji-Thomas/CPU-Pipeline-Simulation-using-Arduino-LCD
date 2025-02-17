@@ -85,7 +85,7 @@ This project is **MIT Licensed**, but **direct copying** of the repository is re
 ## ❤️ Contribute
 Feel free to **fork**, **star**, and **contribute** to this project!
 
-🔗 _Stay tuned for more updates!_
+
 
 ---
 
