@@ -51,7 +51,7 @@ The Arduino code is available in the repository.
 ## 🔗 Setup Guide
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/cpu-pipeline-simulation.git
+   git clone https://github.com/Abin-Shaji-Thomas/CPU-Pipeline-Simulation-using-Arduino-LCD.git
    ```
 2. Open `cpu_pipeline.ino` in **Arduino IDE**.
 3. Connect your Arduino hardware and upload the code.
