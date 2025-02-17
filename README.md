@@ -8,7 +8,7 @@ This project simulates a **basic CPU pipeline** using an **Arduino Uno**, an **L
 ---
 
 ## 🎯 Features
-✅ **Instruction Processing** - Supports basic assembly-like instructions like `MOV`, `ADD`, `SUB`, and `HLT`.
+✅ **Instruction Processing** - Supports basic assembly-like instructions like `MOV`, `ADD`, `SUB`, `MUL`, `DIV` and `HLT`.
 
 ✅ **Pipeline Stages** - Implements Fetch, Decode, Execute, and Memory stages with **LED indicators**.
 
