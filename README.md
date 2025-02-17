@@ -24,10 +24,16 @@ This project simulates a **basic CPU pipeline** using an **Arduino Uno**, an **L
 - **Arduino Uno**
 - **I2C LCD Display**
 - **Push Button**
+
 - **LEDs (Red, Yellow, Green)**
 - **Resistors & Jumper Wires**
 
-📌 _Circuit design and diagram will be added soon!_
+📌 _Circuit design
+![Screenshot 2025-02-17 213817](https://github.com/user-attachments/assets/49c6176f-ec8d-4644-b7c2-056f66b0cf02)
+
+📌 Circuit diagram 
+
+![Screenshot 2025-02-17 213832](https://github.com/user-attachments/assets/cf8288f7-d4c8-4e8d-a198-00997d39cca3)
 
 ---
 
