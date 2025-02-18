@@ -39,10 +39,9 @@ This project simulates a **basic CPU pipeline** using an **Arduino Uno**, an **L
 
 ## 📜 How It Works
 1. Enter an instruction in the **Serial Monitor** (Example: `MOV A,5` or `ADD`).
-2. Press the **Push Button** to execute the instruction step-by-step.
-3. The LCD and LEDs will indicate the **current stage** of execution.
-4. The final register values are displayed on the LCD.
-5. The program stops when `HLT` is entered.
+2. The LCD and LEDs will indicate the **current stage** of execution.
+3. The final register values are displayed on the LCD.
+4. The program stops when `HLT` is entered.
 
 ---
 
